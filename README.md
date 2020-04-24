@@ -8,4 +8,4 @@ You can try out this script for fun!
 
 2. Paste the article link in the variable 'url' on line 21 in the 'news_summariser.py' file
 
-3. Run the code to see your article summarized
+3. Run the code in your terminal or notebook to see your article summarized
